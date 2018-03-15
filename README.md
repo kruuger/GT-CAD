@@ -1,6 +1,6 @@
 # GT-CAD
 AutoCAD tools written in AutoLISP language. Utilities mainly for structural and geotechnical engineers, 
-but every AutoCAD user can find something useful and make use of this tools.
+but every AutoCAD user can find something useful here.
 
 Special thanks to:  
 Lee Mac http://www.lee-mac.com/index.html  
