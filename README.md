@@ -7,7 +7,7 @@ Special thanks to:
 1. kojacek https://kojacek.wordpress.com/  
 1. kruuger http://forum.cad.pl/member/kruuger/  
 1. users from AutoLISP forums:  
-   1. http://forum.cad.pl/  
-   1. http://www.cadtutor.net/forum/forum.php  
-   1. https://www.theswamp.org/  
-   1. https://forums.autodesk.com/
+   * http://forum.cad.pl/  
+   * http://www.cadtutor.net/forum/forum.php  
+   * https://www.theswamp.org/  
+   * https://forums.autodesk.com/
